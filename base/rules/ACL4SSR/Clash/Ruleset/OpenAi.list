@@ -1,3 +1,7 @@
 DOMAIN-SUFFIX,openai.com
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaipublic
+
+
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-KEYWORD,claude
